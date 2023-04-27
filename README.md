@@ -1,7 +1,7 @@
 
 # Elevator system v1.0
 
-The Elevator system is my first-ever project as a student, and it is an open-source software built. It is written in the C language and designed to manage elevators in a building with two panels - the Admin Panel and the User Panel.
+The Elevator system is my first-ever project as a student, and it is an open-source software. It is written in the C language and designed to manage elevators in a building with two panels - the Admin Panel and the User Panel.
 
 The Admin Panel is the control center of the system. Administrators can create other users and grant them permissions to access the system. They can create and edit elevators, view their status, and reset the number of uses and repair flags on each elevator. The system allows for administrators to unblock elevators that have been previously blocked.
 
